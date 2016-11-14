@@ -14,7 +14,7 @@
 
 ```php
 // include the payment class
-include_once 'class-payment.php';
+include_once 'PaymentClass.php';
 
 // set necessary parameters
 $debug = true;
